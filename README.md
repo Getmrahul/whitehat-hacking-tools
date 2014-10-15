@@ -3,7 +3,8 @@ whitehat-hacking-tools
 
 Tools which will be useful for a whitehat during bug hunt !
 
-Format: [Tool name] - [use] - [link]
-
-Burp Suite - Proxy - http://portswigger.net/burp/
-Charles - Desktop|Mobile Proxy - http://www.charlesproxy.com/documentation/welcome/
+<b>Format: [Tool name] - [use/Purpose] - [link]</b>
+<ul>
+<li>Burp Suite - Proxy - http://portswigger.net/burp/
+<li>Charles - Desktop|Mobile Proxy - http://www.charlesproxy.com/documentation/welcome/
+</ul>
