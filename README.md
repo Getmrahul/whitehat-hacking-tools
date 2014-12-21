@@ -2,7 +2,11 @@ whitehat-hacking-tools
 ======================
 
 Tools which will be useful for a whitehat during bug hunt !
-
+Have a good day! 
+See what's your team is upto!
+Cheers! your progress is ticking.
+Leave your team at peace.
+Enhance your team's success.
 <b>Format: [Tool Name] - [Use/Purpose] - [Link]</b>
 <ul>
 <li>Burp Suite - Proxy - http://portswigger.net/burp/
