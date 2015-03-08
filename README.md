@@ -13,5 +13,3 @@ Enhance your team's success.
 <li>Charles - Desktop|Mobile Proxy - http://www.charlesproxy.com/documentation/welcome/
 <li>EditThisCookie - Browser Cookie Editor - http://www.editthiscookie.com/
 </ul>
-
--------
